@@ -1,6 +1,7 @@
 # About_me
 
 # 蕭琮峻 （Jeff Hsiao）
+![image](https://github.com/lunawine/About_me/blob/main/Jeff.png)
 
 * Birthday : 08/08/1996
 * Education : 國立臺北大學 - 資訊管理研究所
@@ -16,7 +17,7 @@
 
 #### 磊山保險經紀人股份有限公司（Leishan）- 2020 03-29 ~ now
 
-
+#### 
 ## 作品
 
 ## 自我介紹
