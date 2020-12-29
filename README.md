@@ -1,7 +1,7 @@
 # About_me
 
 # 蕭琮峻 （Jeff Hsiao）
-![imgur](https://i.imgur.com/n6iRcHF.png)
+![imgur](https://i.imgur.com/n6iRcHF.png) width="15%" height="15%"
 
 * Birthday : 08/08/1996
 * Education : 國立臺北大學 - 資訊管理研究所
